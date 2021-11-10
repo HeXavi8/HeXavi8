@@ -1,12 +1,3 @@
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=HeXavi8&theme=minimal">
-</p>
-
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=HeXavi8&hide=issues&count_private=true&show_icons=true"/>&emsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeXavi8&layout=compact"/>
-</p>
-
 <h2 align="center">Introduction<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
 
 Hi there 👋, my name is Xavi. Here is my personal website: https://www.yuminghe.com.cn.
@@ -19,4 +10,17 @@ Hi there 👋, my name is Xavi. Here is my personal website: https://www.yumingh
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<p align = "left">
+<img src="https://github-readme-stats.vercel.app/api?username=HeXavi8&hide=issues&count_private=true&show_icons=true"/>
+</p>
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=HeXavi8&theme=minimal">
+</p>
+
+
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+
+<p align = "center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeXavi8&layout=compact"/>
+</p>
