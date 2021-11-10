@@ -1,4 +1,4 @@
-<h2 align="center">Introduction<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
+<h1 align="center">Introduction<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="70"></h1>
 
 Hi there 👋, my name is Xavi. Here is my personal website: https://www.yuminghe.com.cn.
 - 🔭 I’m currently working on [Bugu Sport](https://www.bugusport.com).
@@ -19,7 +19,7 @@ Hi there 👋, my name is Xavi. Here is my personal website: https://www.yumingh
 </p>
 
 
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h1 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h1>
 
 <p align = "left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeXavi8&layout=compact"/>
