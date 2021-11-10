@@ -21,6 +21,6 @@ Hi there 👋, my name is Xavi. Here is my personal website: https://www.yumingh
 
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<p align = "center">
+<p align = "left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeXavi8&layout=compact"/>
 </p>
