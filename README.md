@@ -1,8 +1,8 @@
 <h1 align="center">Introduction<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="65"></h1>
 
 Hi there 👋, my name is Xavi. Here is my personal website: https://www.yuminghe.com.cn.
-- 🔭 I’m currently working on [Bugu Sport](https://www.bugusport.com).
-- 🌱 I’m currently learning full-stack development.
+- 🔭 I’m currently working on Tencent and my personal project [Bugu Sport](https://www.bugusport.com).
+- 🌱 I’m currently learning full-stack development, including JavaScript, Html, Css and Node.js.
 - 📫 How to reach me: yuminghe.work@outlook.com
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
