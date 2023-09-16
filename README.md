@@ -14,11 +14,6 @@ Hi there 👋, my name is Xavi.
 <img src="https://github-readme-stats.vercel.app/api?username=HeXavi8&hide=issues&count_private=true&show_icons=true"/>
 </p>
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=HeXavi8&theme=minimal">
-</p>
-
-
 <h1 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h1>
 
 <p align = "left">
