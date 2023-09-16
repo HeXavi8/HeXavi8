@@ -1,6 +1,6 @@
 <h1 align="center">Introduction<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="65"></h1>
 
-Hi there 👋, my name is Xavi. Here is my [personal website](https://www.yuminghe.com.cn).
+Hi there 👋, my name is Xavi.
 - 🔭 I’m currently working on Tencent and my personal project [Bugu Sport](https://www.bugusport.com).
 - 🌱 I’m currently learning full-stack development, including JavaScript, HTML, CSS, Webpack, and Node.js, MySQL, Redis, Docker, etc.
 
