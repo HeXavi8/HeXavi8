@@ -1,8 +1,10 @@
 <h1 align="center">Introduction<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="65"></h1>
 
 Hi there 👋, my name is Xavi.
-- 🔭 I am currently working as a software engineer and my personal project [Bugu Sport](https://www.bugusport.com).
-- 🌱 I’m currently learning full-stack development, including JavaScript, HTML, CSS, Webpack, and Node.js, MySQL, Redis, Docker, etc.
+
+- 🔭 I am currently working as a software engineer and on my personal project, Bugu Sport.
+- 🌱 I'm currently learning full-stack development, including JavaScript, HTML, CSS, Webpack, Node.js, MySQL, Redis, Docker, and more.
+
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
