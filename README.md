@@ -2,15 +2,10 @@
 
 Hi there 👋, my name is Xavi.
 
-- 🔭 I am currently working as a software engineer and on my personal project, Bugu Sport.
-- 🌱 I'm currently learning full-stack development, including JavaScript, HTML, CSS, Webpack, Node.js, MySQL, Redis, Docker, and more.
+- 🔭 I am currently working as a software engineer.
+- 🌱 I am currently learning full-stack development, including JavaScript, HTML, CSS, Webpack, Node.js, MySQL, Redis, Docker, and more.
+- 🤖 I am currently learning the technology stack related to embodied intelligence.
 
-
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
 <p align = "left">
 <img src="https://github-readme-stats.vercel.app/api?username=HeXavi8&hide=issues&count_private=true&show_icons=true"/>
